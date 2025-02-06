@@ -1,12 +1,13 @@
-Leaning git as a bigginer
-and merge conflicts
+Leaning git as jdsfggcvjh
+
+
+and merge confl
 chirag is changing the README file
 
-try to solve merge conflicts
+try to solve merge conflict
 
 
-please work this time
-
+please work this tim
 try to create a conflict
 
 maybe this is the last merge

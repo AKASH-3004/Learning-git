@@ -2,5 +2,7 @@ add and remove user
 change the roles
 
 
-delete user data
+
+
+chal ho gaya change ab aage kya ?
 update user data
