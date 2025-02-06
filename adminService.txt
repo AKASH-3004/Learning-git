@@ -2,7 +2,6 @@ add and remove user
 change the roles
 
 
-
-
 chal ho gaya change ab aage kya ?
+
 update user data
